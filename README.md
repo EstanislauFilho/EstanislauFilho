@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with *Robotic Process Automation* (RPA) and *Machine Learning*
 - 🌱 I’m currently learning *Machine Learning* and *Computer Vision*
 - :man_student: Graduated in Computer Engineering from [CEFET-MG](https://www.cefetmg.br/)
-- :man_scientist: Graduate Researcher at [UFMG](https://ufmg.br/)
+- :man_scientist: Graduate Student in Computer Science at [UFMG](https://ufmg.br/)
 - 😄 Pronouns: He/His
 - 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
 
