@@ -18,14 +18,14 @@
   media="(prefers-color-scheme: radical)"/>
 <source srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: radical)"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 </picture>
 
 
 
 
 <a href="https://github.com/EstanislauFilho/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img width="49%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 
 
