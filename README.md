@@ -55,4 +55,3 @@
 </div>
 
 
-![Snake](https://github.com/EstanislauFilho/EstanislauFilho/blob/output/github-contribution-grid-snake.svg)
