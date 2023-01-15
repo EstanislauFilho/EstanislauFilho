@@ -36,7 +36,7 @@
   <img align="center" alt="Estanislau-Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Estanislau-Raspberry" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
    <img align="center" alt="Estanislau-Arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="right" alt="Estanislau-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/45970886/212546271-b1300d13-10d7-48dc-b202-44894c07812e.png">
+  <img align="right" alt="Estanislau-pic" height="150" style="border-radius:50px;" src="profile.png">
 </div>
 
 ##
