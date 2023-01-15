@@ -6,9 +6,10 @@
 
 - 🔭 I’m currently working with *Robotic Process Automation* (RPA) and *Machine Learning*
 - 🌱 I’m currently learning *Machine Learning* and *Computer Vision*
-- 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
-- 📫 How to reach me: estanislau.sena@gmail.com
+- :man_student: Graduated in Computer Engineering from [CEFET-MG](https://www.cefetmg.br/)
+- :man_scientist: Graduate Researcher at [UFMG](https://ufmg.br/)
 - 😄 Pronouns: He/His
+- 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
 
 
 
@@ -22,10 +23,8 @@
 </picture>
 
 
-
-
 <a href="https://github.com/EstanislauFilho/github-readme-streak-stats">
-    <img width="49%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img width="49%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EstanislauFilho's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 
 
@@ -52,7 +51,7 @@
 ### Connect With Me:
 <div> 
   <a href="https://www.linkedin.com/in/estanislau-sena-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="estanislau.sena@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="estanislau.sena@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
 ##
