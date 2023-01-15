@@ -1,5 +1,8 @@
 ### Hi there, I'm Estanislau Filho! 👋
 
+<div style="display: inline_block"><br>
+  <img align="right" alt="Estanislau-pic" height="150" style="border-radius:50px;" src="profile.png">
+</div>
 
 - 🔭 I’m currently working with *Robotic Process Automation* (RPA) and *Machine Learning*
 - 🌱 I’m currently learning *Machine Learning* and *Computer Vision*
@@ -7,21 +10,28 @@
 - 📫 How to reach me: estanislau.sena@gmail.com
 - 😄 Pronouns: He/His
 
+
+
 ##
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=estanislaufilho&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: radical)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: radical)"
-/>
+<source srcset="https://github-readme-stats.vercel.app/api?username=estanislaufilho&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: radical)"/>
+<source srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: radical)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 </picture>
 
-##
 
+
+
+<a href="https://github.com/EstanislauFilho/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
+
+
+
+
+### Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Estanislau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Estanislau-Tensorflow" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
@@ -36,11 +46,10 @@
   <img align="center" alt="Estanislau-Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Estanislau-Raspberry" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
    <img align="center" alt="Estanislau-Arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="right" alt="Estanislau-pic" height="150" style="border-radius:50px;" src="profile.png">
 </div>
 
-##
 
+### Connect With Me:
 <div> 
   <a href="https://www.linkedin.com/in/estanislau-sena-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="estanislau.sena@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
