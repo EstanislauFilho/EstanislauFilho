@@ -15,11 +15,13 @@
 
 ##
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=estanislaufilho&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: radical)"/>
-<source srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: radical)"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true&theme=dark"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 
