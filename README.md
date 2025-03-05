@@ -7,6 +7,7 @@
 - :man_scientist: Master's student in Computer Science at [UFMG](https://ufmg.br/)
 - 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
 
+---
 
 ### Development Metrics
 
@@ -26,7 +27,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-
+---
 
 ### Languages and Tools:
 <div style="display: inline_block"><br>
