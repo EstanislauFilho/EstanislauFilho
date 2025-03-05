@@ -10,19 +10,6 @@
 - 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
 
 
-
-##
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true&theme=dark"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-
 <a href="https://github.com/EstanislauFilho/github-readme-streak-stats">
     <img width="49%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EstanislauFilho's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
