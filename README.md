@@ -4,7 +4,7 @@
   <img align="right" alt="Estanislau-pic" height="150" style="border-radius:50px;" src="profile.png">
 </div>
 
-- 🔭 I’m currently working with *Robotic Process Automation* (RPA) and *Machine Learning*
+- 🔭 I work as a researcher in Robotics and Artificial Intelligence
 - 🌱 I’m currently learning *Machine Learning* and *Computer Vision*
 - :man_student: Graduated in Computer Engineering from [CEFET-MG](https://www.cefetmg.br/)
 - :man_scientist: Master's student in Computer Science at [UFMG](https://ufmg.br/)
