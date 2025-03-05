@@ -30,53 +30,53 @@
 ***
 
 ### Languages and Tools:
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <p>Python</p>
+  <p style="margin-left: 5px;">Python</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Tensorflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <p>TensorFlow</p>
+  <p style="margin-left: 5px;">TensorFlow</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <p>PyTorch</p>
+  <p style="margin-left: 5px;">PyTorch</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-  <p>Scikit-learn</p>
+  <p style="margin-left: 5px;">Scikit-learn</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">
-  <p>OpenCV</p>
+  <p style="margin-left: 5px;">OpenCV</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-  <p>Anaconda</p>
+  <p style="margin-left: 5px;">Anaconda</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <p>MySQL</p>
+  <p style="margin-left: 5px;">MySQL</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <p>MongoDB</p>
+  <p style="margin-left: 5px;">MongoDB</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <p>Git</p>
+  <p style="margin-left: 5px;">Git</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <p>Linux</p>
+  <p style="margin-left: 5px;">Linux</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <p>Raspberry Pi</p>
+  <p style="margin-left: 5px;">Raspberry Pi</p>
 </div>
-<div style="display: inline-block; text-align: center; margin-right: 15px;">
+<div style="display: inline-flex; align-items: center; margin-right: 15px;">
   <img align="center" alt="Estanislau-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <p>Arduino</p>
+  <p style="margin-left: 5px;">Arduino</p>
 </div>
 
 
