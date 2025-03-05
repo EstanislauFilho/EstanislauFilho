@@ -18,10 +18,6 @@
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=EstanislauFilho&show_icons=true&theme=dark"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 
