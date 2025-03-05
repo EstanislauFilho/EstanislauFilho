@@ -77,7 +77,7 @@
       <p>Raspberry Pi</p>
     </td>
     <td style="text-align: center;">
-      <img align="center" alt="Estanislau-Arduino" height="30" width="40" src="https://www.databricks.com/wp-content/uploads/2021/04/databricks-logo-horizontal-color.png">
+      <img align="center" alt="Estanislau-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
       <p>Arduino</p>
     </td>
   </tr>
