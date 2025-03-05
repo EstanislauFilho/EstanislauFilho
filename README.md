@@ -7,7 +7,7 @@
 - :man_scientist: Master's student in Computer Science at [UFMG](https://ufmg.br/)
 - 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
 
-# -----------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/EstanislauFilho/github-readme-streak-stats">
     <img width="49%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EstanislauFilho's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EstanislauFilho&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
