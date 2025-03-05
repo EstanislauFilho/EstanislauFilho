@@ -44,8 +44,6 @@
       <img align="center" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
       <p>PyTorch</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center;">
       <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
       <p>Scikit-learn</p>
@@ -58,8 +56,6 @@
       <img align="center" alt="Estanislau-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
       <p>Anaconda</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center;">
       <img align="center" alt="Estanislau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       <p>MySQL</p>
@@ -72,8 +68,6 @@
       <img align="center" alt="Estanislau-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
       <p>Git</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center;">
       <img align="center" alt="Estanislau-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
       <p>Linux</p>
