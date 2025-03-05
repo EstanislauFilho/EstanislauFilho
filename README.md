@@ -5,10 +5,8 @@
 </div>
 
 - 🔭 I work as a researcher in Robotics and Artificial Intelligence
-- 🌱 I’m currently learning *Machine Learning* and *Computer Vision*
 - :man_student: Graduated in Computer Engineering from [CEFET-MG](https://www.cefetmg.br/)
 - :man_scientist: Master's student in Computer Science at [UFMG](https://ufmg.br/)
-- 😄 Pronouns: He/His
 - 💬 Doubts? Ask a question by [**clicking here**](https://github.com/EstanislauFilho/EstanislauFilho/issues)
 
 
